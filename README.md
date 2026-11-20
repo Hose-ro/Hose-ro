@@ -1,36 +1,28 @@
-# JoseGzlz
+<picture>
+  <img src="assets/banner.svg" alt="JoseGzlz · Desarrollo web full stack con Next.js y Spring Boot" width="960">
+</picture>
 
-**Desarrollo web full stack**
+Desarrollo aplicaciones web de comercio electrónico, sistemas de pedidos y sitios con administración de contenidos.
 
-Desarrollo aplicaciones web con Next.js y Spring Boot. Mis proyectos abarcan comercio electrónico, sistemas de pedidos y sitios con administración de contenidos.
+## Stack
+
+![Next.js, TypeScript, Java, Spring Boot, PostgreSQL, Docker y Laravel](https://skillicons.dev/icons?i=nextjs,ts,java,spring,postgres,docker,laravel&theme=dark)
+
+Next.js · TypeScript · Java · Spring Boot · PostgreSQL · Docker · Laravel
 
 ## Proyectos destacados
 
-### [Olvenio](https://github.com/Hose-ro/forma)
+| Proyecto | Qué hace | Tecnologías |
+| --- | --- | --- |
+| **[Olvenio](https://github.com/Hose-ro/forma)** | Tienda de demostración con catálogo, carrito, checkout y panel de administración. Mercado Pago en modo de pruebas. | Next.js, Spring Boot, PostgreSQL |
+| **[RestOrder](https://github.com/Hose-ro/restorder)** | Plataforma de pedidos para restaurantes con microservicios, mensajería y observabilidad. | Spring Boot, Kafka, Keycloak, Grafana |
+| **[Liquid Colors](https://github.com/Hose-ro/LiquidColors)** | Sitio multipágina con blog público y gestión de publicaciones en un monolito modular. | Laravel, PHP, JavaScript |
 
-Tienda de demostración con catálogo, carrito, checkout y panel de administración de productos, pedidos e inventario. La integración con Mercado Pago funciona en modo de pruebas.
+## Actividad en GitHub
 
-**Tecnologías:** Next.js · TypeScript · Spring Boot · PostgreSQL
+![Estadísticas públicas de JoseGzlz en GitHub](https://ghstats.dev/api/card?username=Hose-ro&theme=gruvbox&border_radius=8)
 
-### [RestOrder](https://github.com/Hose-ro/restorder)
-
-Plataforma de pedidos para restaurantes con una arquitectura de microservicios. El proyecto usa Kafka para mensajería, Keycloak para autenticación y Prometheus y Grafana para observabilidad.
-
-**Tecnologías:** Next.js · Spring Boot · PostgreSQL · Kafka · Docker
-
-### [Liquid Colors](https://github.com/Hose-ro/LiquidColors)
-
-Sitio web multipágina con un blog público y un panel de administración de publicaciones. Laravel centraliza la autenticación y la lógica de negocio en un monolito modular.
-
-**Tecnologías:** Laravel · PHP · JavaScript
-
-## Tecnologías
-
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-235A97?style=flat&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-376523?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-315B86?style=flat&logo=postgresql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-A92E26?style=flat&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-155A91?style=flat&logo=docker&logoColor=white)
-
-[Ver todos mis repositorios](https://github.com/Hose-ro?tab=repositories)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hose-ro/Hose-ro/output/snake-dark.svg">
+  <img alt="Serpiente animada sobre el calendario de contribuciones de GitHub" src="https://raw.githubusercontent.com/Hose-ro/Hose-ro/output/snake-light.svg">
+</picture>
